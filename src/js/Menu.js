@@ -63,7 +63,7 @@ function Menu() {
       </div>
       <div
         className="Home relative text-center w-full h-auto bg-gradient-to-b z-[1] duration-500 from-[#F9DEC9] to-gray-50"
-        id="home"
+        id="home" data-aos = "fade-up"
       >
         <div className="text-center pt-32 text-4xl pb-10 md:text-5xl md:pt-20 lg:pt-24 lg:text-3xl lg:pb-8 2xl:text-6xl 2xl:pt-32 text-[#7971EA]">
           <span className="font-normal text-stone-400">Hi, I,m</span>
