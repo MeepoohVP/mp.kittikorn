@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mp.kittikorn/static/css/main.0ced4f65.css",
-    "main.js": "/mp.kittikorn/static/js/main.dc63e9c1.js",
+    "main.css": "/mp.kittikorn/static/css/main.35e8b486.css",
+    "main.js": "/mp.kittikorn/static/js/main.d37c81cc.js",
     "static/js/787.94448f15.chunk.js": "/mp.kittikorn/static/js/787.94448f15.chunk.js",
     "static/media/weather.png": "/mp.kittikorn/static/media/weather.cb1d580c0f93df42ded3.png",
     "static/media/garena.jpg": "/mp.kittikorn/static/media/garena.eabb6676b62a18975f7d.jpg",
@@ -19,12 +19,12 @@
     "static/media/js.png": "/mp.kittikorn/static/media/js.3dfb665e058d08c99f28.png",
     "static/media/logo.svg": "/mp.kittikorn/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/mp.kittikorn/index.html",
-    "main.0ced4f65.css.map": "/mp.kittikorn/static/css/main.0ced4f65.css.map",
-    "main.dc63e9c1.js.map": "/mp.kittikorn/static/js/main.dc63e9c1.js.map",
+    "main.35e8b486.css.map": "/mp.kittikorn/static/css/main.35e8b486.css.map",
+    "main.d37c81cc.js.map": "/mp.kittikorn/static/js/main.d37c81cc.js.map",
     "787.94448f15.chunk.js.map": "/mp.kittikorn/static/js/787.94448f15.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ced4f65.css",
-    "static/js/main.dc63e9c1.js"
+    "static/css/main.35e8b486.css",
+    "static/js/main.d37c81cc.js"
   ]
 }
