@@ -13,7 +13,7 @@ function Footer() {
             <a href="#" className="mx-2">
               <i className="bi bi-github"></i>
             </a>
-            <div className="w-full h-auto bg-[#7971EA] mt-2 text-lg">Kittikorn Voraprateep</div>
+            <div className="w-full h-auto bg-[#7971EA] mt-2 md:text-base text-sm">© 2023 All Rights Reserved by Kittikorn Voraprateep</div>
         </footer>
     );
 }

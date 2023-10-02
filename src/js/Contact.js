@@ -21,12 +21,11 @@ function Contact() {
     >
       <div
         className="text-center text-4xl text-[#7971EA] font-bold"
-        data-aos="fade-up"
       >
-        <div className="greet">Contact</div>
+        <div className="greet" data-aos="fade-up">Contact</div>
         <div className="md:flex md:px-8 lg:px-32">
           <div className="block md:flex-1">
-            <div className="flex justify-center">
+            <div className="flex justify-center" data-aos="zoom-in">
               <Cont
                 icon="bi bi-telephone-fill text-[#7971EA] text-2xl"
                 name="Phone"
@@ -34,7 +33,7 @@ function Contact() {
                 info="061-550-9414"
               />
             </div>
-            <div className="flex justify-center">
+            <div className="flex justify-center" data-aos="zoom-in">
               <Cont
                 icon="bi bi-envelope-fill text-[#7971EA] text-2xl"
                 name="Email"
@@ -43,25 +42,25 @@ function Contact() {
               />
             </div>
           </div>
-          <div className="block md:flex-1 text-[#7971EA] text-xl font-semibold mt-8 w-auto md:w-1/3 mx-auto text-center pb-8">
+          <div className="block md:flex-1 text-[#7971EA] text-xl font-semibold mt-8 w-auto md:w-1/3 mx-auto text-center pb-8" data-aos="zoom-in">
             Send your message
             <form action="" className="font-light">
               <input
                 type="text"
                 placeholder="Name"
-                className="outline-none placeholder:text-[#7971EA] md:text-xl pl-2 my-2 border-b-[1px] solid border-black/[.15]"
+                className="outline-none placeholder:text-[#7971EA] md:text-xl pl-2 my-2 border-b-[1px] solid duration-150 border-black/[.15] hover:border-[#7971EA]"
               />
               <br />
               <input
                 type="email"
                 placeholder="Email"
-                className="outline-none placeholder:text-[#7971EA] md:text-xl pl-2 my-2 border-b-[1px] solid border-black/[.15]"
+                className="outline-none placeholder:text-[#7971EA] md:text-xl pl-2 my-2 border-b-[1px] solid duration-150 border-black/[.15] hover:border-[#7971EA]"
               />
               <br />
               <textarea
                 rows="3"
                 placeholder="Message"
-                className="text-lg rounded-md resize-none outline-[#7971EA] placeholder:text-[#7971EA] pl-2 my-2 border-b-[1px] solid border-black/[.15]"
+                className="text-lg rounded-md resize-none outline-[#7971EA] placeholder:text-[#7971EA] pl-2 my-2 border-b-[1px] solid border-black/[.15] hover:border-[1px] hover:border-[#7971EA]"
               ></textarea>
               <br />
               <button
