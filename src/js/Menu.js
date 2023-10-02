@@ -14,8 +14,8 @@ function Menu() {
   const [isActive, setIsActive] = useState(false);
 
   const classMenu = isActive
-    ? "w-full h-full fixed text-right bg-[#7971EA]/[.8] top-[-1px] z-[4] duration-500 shadow-lg opacity-1 lg:opacity-1 lg:h-auto lg:bg-white/[.8] shadow lg:flex lg:pt:2"
-    : "w-full h-full fixed text-right bg-[#7971EA]/[.8] top-[-1px] z-[-1] duration-500 shadow-lg opacity-0 lg:opacity-[1] lg:z-[4] lg:h-auto lg:bg-white/[.8] shadow lg:flex lg:pt-2";
+    ? "w-full h-full fixed text-right bg-[#7971EA]/[.8] top-[-1px] z-[4] duration-500 shadow-lg opacity-1 lg:opacity-1 lg:h-auto lg:bg-white/[.2] backdrop-blur-sm shadow-md lg:flex lg:pt:2"
+    : "w-full h-full fixed text-right bg-[#7971EA]/[.8] top-[-1px] z-[-1] duration-500 shadow-lg opacity-0 lg:opacity-[1] lg:z-[4] lg:h-auto lg:bg-white/[.2] backdrop-blur-sm shadow-md lg:flex lg:pt-2";
   const classIcon = isActive
     ? "bi bi-x text-white/[.7]"
     : "bi bi-list text-black/[.7]";
