@@ -76,7 +76,12 @@ function Project() {
       >
         Certificates
         <ul className="text-left list-disc w-1/2 text-sm mx-auto mt-4 md:w-2/5 lg:w-1/6 font-normal">
-          <li className="underline decoration-transparent decoration-soild duration-500 hover:decoration-current">
+         <li className="underline decoration-transparent decoration-soild duration-500 hover:decoration-current">
+            <a href="https://www.freecodecamp.org/certification/fccd186cc0f-7016-4c9c-8e51-4d2fe9da575c/responsive-web-design?fbclid=IwAR2kLdenpr72HvVJeRI6FsXpbDwcuvbTbPHme1mMKf5IgzpxbcxkGT41-J8">
+              Responsive Web Design
+            </a>
+          </li>
+          <li className="mt-4 md:mt-6 underline decoration-transparent decoration-soild duration-500 hover:decoration-current">
             <a href={gamer}>Gamer to Coder</a>
           </li>
           <li className="mt-4 md:mt-6 underline decoration-transparent decoration-soild duration-500 hover:decoration-current">
